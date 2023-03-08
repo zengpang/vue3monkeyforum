@@ -1,13 +1,13 @@
 <script setup>
-import Main from './components/Main.vue';
+import HomePage from './views/HomePage.vue';
+
+
 
    
 </script>
 
 <template>
-  <div>
-    <Main></Main>
-  </div>
+ 
   
 </template>
 
