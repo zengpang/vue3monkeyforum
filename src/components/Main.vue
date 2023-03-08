@@ -15,9 +15,7 @@ export default{
         .then((res)=>{
           console.log(res);
           console.log(`文章数量为${res.amount}`);
-          
         })
-      
     }
     return {
       sendMsg
